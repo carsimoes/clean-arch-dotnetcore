@@ -1,4 +1,4 @@
-# clean-arch-dotnetcore
+
 
 Initial project template guided by Clean Architecture design pattern through a step-by-step approach.  
 
