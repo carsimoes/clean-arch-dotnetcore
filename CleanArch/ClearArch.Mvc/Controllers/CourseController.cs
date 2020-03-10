@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ClearArch.Mvc.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class CourseController : Controller
     {
         private ICourseService _courseService;
