@@ -2,7 +2,7 @@
 
 Initial project template guided by Clean Architecture design pattern through a step-by-step approach.  
 
-- .NET Core coupled (3.1)
+- .NET Core (3.1)
 - Clean Architecture
 - CQRS
 - Dependency Injection
