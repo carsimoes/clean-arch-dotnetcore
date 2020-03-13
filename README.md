@@ -1,7 +1,7 @@
 ## The project
 I'm Carlos. This project began in March 2020, it is designed only for study as a initial template guided by clean architecture design pattern through a step-by-step approach.  
 
-## Components Glossary 
+## Glossary 
 
 ```
 .NET Core (3.1)
